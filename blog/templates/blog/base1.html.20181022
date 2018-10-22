@@ -113,7 +113,6 @@ $('#AClikenum > a').bind("click",function(){
                     <li lass="list-group-item" style="border: 0;" ><i class="glyphicon glyphicon-map-marker"></i>&nbsp;&nbsp;<strong style="font-style:italic">广东 河源</strong></li>
                     <li lass="list-group-item" style="border: 0;"><i class="glyphicon glyphicon-picture"></i>&nbsp;&nbsp;<strong style="font-style:italic">1992-06</strong></li>
                     <li lass="list-group-item" style="border: 0;"><img src="{% static "img/github.png"%}" width="16px" height="16px">&nbsp;&nbsp;<strong style="font-style:italic">425319153@qq.com</strong></li>
-                    <li lass="list-group-item" style="border: 0;"><img src="{% static "img/mayun.png"%}" width="16px" height="16px">&nbsp;&nbsp;<strong style="font-style:italic">SouceCode:https://gitee.com/Vshellbog/Myblogsite</strong></li>
                     </ul>
                     </div>
                 </div>
