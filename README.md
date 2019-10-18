@@ -15,6 +15,6 @@
  > 分类  
 
 ### 后台管理：
->默认用户密码：admin，admin
+>默认用户密码：admin，xxxxxxxx
 ### 源码地址：
-[github](https://gitee.com/Vshellbog/Myblogsite)
+[github](https://gitee.com/Vshellbog/myblog)
